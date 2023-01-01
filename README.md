@@ -27,4 +27,5 @@ to download this dataset, kindly request for [access](https://drive.google.com/d
 
 ## Output
 The image after Face Verification
+
 ![output](https://user-images.githubusercontent.com/114278846/210181217-a1e2b8de-86ed-4726-8f8a-307a9dbd3d67.jpg)
