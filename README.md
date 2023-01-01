@@ -1,8 +1,9 @@
 # Automated Face Reading and Name Printing
 Face Recognition detects and recognize your face from an image.
 
-Face recognition is the process of identifying or verifying a person’s face from photos and video frames.
-Face detection is defined as the process of locating and extracting faces (location and size) in an image for use by a face detection algorithm.
+> Face recognition is the process of identifying or verifying a person’s face from photos and video frames.
+
+> Face detection is defined as the process of locating and extracting faces (location and size) in an image for use by a face detection algorithm.
 
 Face recognition involves 3 steps: 
 - face detection
@@ -15,8 +16,9 @@ Some applications of Face Recognition are Exam entry Verification and Online Por
 The process of verifying the face of a person is very commonly performed and is often done manually. This project is done to sophisticate the process by automatically printing the name of the person whose details are already stored in the data.Face verification is done using CV2, Face Recognition API, ANN and python.Face recognition API is used to locate features in the image. OpenCV is an open-source library used for computer vision tasks.
 
 ## Dataset
-Original collected datasets are used for this project
-to download this dataset, kindly request for [access](https://drive.google.com/drive/folders/1G9kapPO2t58oUSwtpssPiHkeKO1HzsDN)
+Original collected datasets are used for this project.
+
+To download this dataset, kindly request for [access](https://drive.google.com/drive/folders/1G9kapPO2t58oUSwtpssPiHkeKO1HzsDN)
 
 ## Environment and Tools
 1. colab Notebook
