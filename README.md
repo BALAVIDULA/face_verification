@@ -1,4 +1,4 @@
-# Automated Face Reading and Name Printing
+# Automated Face Verification using Face Detection and CNN
 Face Recognition detects and recognize your face from an image.
 
 > Face recognition is the process of identifying or verifying a person’s face from photos and video frames.
